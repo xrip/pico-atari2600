@@ -26,7 +26,7 @@
 // #define PRINT_STATE 1
 
 /* Game cart data */
-#include "tia-tests/PaletteDemo.h"
+#include "cartridges/PaletteDemo.h"
 #define CARTRIDGE PaletteDemo_bin
 
 //#include "tia-tests/space.h"
