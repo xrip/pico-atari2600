@@ -4,7 +4,7 @@ Atari 2600 emulator for Raspberry Pi Pico and [MURMULATOR](https://github.com/Al
 Based on Atari 2600 emulator by David Grubb https://github.com/dgrubb/HiFive1-2600/tree/master/atari
 
 # Building
-To get it working you should have an Murmulator (development) board with VGA output. 
+To get it working you should have an Murmulator (development) board with VGA output. Schematics available here at https://github.com/AlexEkb4ever/MURMULATOR_classical_scheme
 
 Or connect your Raspberry Pi Pico to VGA using 8 resistors:
 ```
