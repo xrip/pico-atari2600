@@ -14,8 +14,8 @@ GP7 --> R330 --> VGA #3 (Blue)
 GP8 --> R1K  --> VGA #2 (Green)
 GP9 --> R330 --> VGA #2 (Green)
 
-GP10 --> R1K  --> VGA #3 (Red)
-GP11 --> R330 --> VGA #3 (Red)
+GP10 --> R1K  --> VGA #1 (Red)
+GP11 --> R330 --> VGA #1 (Red)
 
 GP12 --> R100  --> VGA #13 (Horizontal Sync)
 GP13 --> R100 --> VGA #14 (Vertical Sync)
