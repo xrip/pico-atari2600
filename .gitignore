@@ -2,4 +2,5 @@
 .vscode
 cmake-*
 build
+build-host
 .DS_Store
